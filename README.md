@@ -4,7 +4,7 @@
 ### Mid Project - Moving Line Detection
 - 동영상에서 움직이는 프레임을 검출해 직선을 찾은 후 직선 라인을 그려주는 프로젝트 
 ![image](https://user-images.githubusercontent.com/57780594/169327438-35686785-dc85-4c07-8f9e-4b78ce9ab040.png)
-
+![화면 캡처 2022-05-20 005858](https://user-images.githubusercontent.com/57780594/169345151-546d3acb-8758-45bf-a064-310d0c9a79ef.jpg)
 <hr>
 
 
