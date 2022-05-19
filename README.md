@@ -2,7 +2,7 @@
 인하대학교 영상처리 전공교육
 
 ### Mid Project - Moving Line Detection
-- 동영상에서 움직이는 프레임을 검출해 직선을 찾은 후 직선에 라인을 그려주는 프로젝트 
+- 동영상에서 움직이는 프레임을 검출해 직선을 찾은 후 직선 라인을 그려주는 프로젝트 
 ![image](https://user-images.githubusercontent.com/57780594/169327438-35686785-dc85-4c07-8f9e-4b78ce9ab040.png)
 
 <hr>
