@@ -1,4 +1,4 @@
-# Python_ImageProcessing
+# Image Processing
 인하대학교 영상처리 전공교육
 
 ### Mid Project - Moving Line Detection
